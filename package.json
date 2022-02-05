@@ -1,3 +1,4 @@
 {
-  "name": "eslint-plugin-redacted"
+  "name": "eslint-plugin-redacted",
+  "version": "0.1.0"
 }
